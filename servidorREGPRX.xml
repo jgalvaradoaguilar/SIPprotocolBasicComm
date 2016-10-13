@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servidorREGPRX>
+   <nombre>SheldonCooperServer</nombre>
+   <IP>localhost</IP>
+   <puerto>15000</puerto>
+   <ruta_log>/home/gabriel/Documentos/IARO_practicas/prct_final/log_server.txt</ruta_log>
+   <ruta_base_usuarios>/home/gabriel/Documentos/IARO_practicas/prct_final/usuarios.txt</ruta_base_usuarios>
+   <timeout>30</timeout>
+   <usuario1>Elena@gabEkiga.net</usuario1>
+   <clave_usuario1>123456</clave_usuario1>
+   <usuario2>Juan@gabEkiga.net</usuario2>
+   <clave_usuario2>123456</clave_usuario2>
+   <usuario3>Pablo@gabEkiga.net</usuario3>
+   <clave_usuario3>123456</clave_usuario3>
+</servidorREGPRX>

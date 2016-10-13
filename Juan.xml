@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user_agent>
+  <server>
+    <IP_server>localhost</IP_server>
+    <puerto_server>12001</puerto_server>
+    <puerto_cancion>14000</puerto_cancion>
+  </server>
+  <cliente>
+    <nombre_cliente>Juan@gabEkiga.net</nombre_cliente>
+    <ruta_log_cliente>/home/gabriel/Documentos/IARO_practicas/prct_final/log.txt</ruta_log_cliente>
+    <ruta_MP32RTP>/home/gabriel/Documentos/IARO_practicas/prct_final/mp32rtp/</ruta_MP32RTP>
+    <ruta_cancion>/home/gabriel/Documentos/IARO_practicas/prct_final/avril_2.mp3</ruta_cancion>
+  </cliente>
+</user_agent>
